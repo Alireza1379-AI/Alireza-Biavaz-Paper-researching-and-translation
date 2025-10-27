@@ -1,3 +1,4 @@
+![page_1](https://github.com/user-attachments/assets/6c1c6df7-2a97-4894-96ea-c001fc54568f)
 # Alireza-Biavaz-Paper-researching-and-translation
 # 📖 My Learning Journal | ژورنال یادگیری من
 # 📚 Knowledge Base: Articles, Translations & Implementations
